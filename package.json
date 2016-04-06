@@ -11,5 +11,8 @@
   "devDependencies": {
     "mock-require": "^1.2.1",
     "tap": "^5.7.0"
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.2"
   }
 }
